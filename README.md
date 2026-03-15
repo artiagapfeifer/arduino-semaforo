@@ -10,6 +10,8 @@ Quando o **botão de pedestre é pressionado**, o semáforo muda de fase, permit
 
 ## 🔗 Projeto no Tinkercad
 
+Imagem do diagrama do circuito: ![Texto Alternativo](caminho/da/sua/imagem.png)
+
 A versão interativa do circuito pode ser acessada aqui:
 
 ➡️ https://www.tinkercad.com/things/fR8i2OtD7hb-semaforo-com-botao-para-pedestres
